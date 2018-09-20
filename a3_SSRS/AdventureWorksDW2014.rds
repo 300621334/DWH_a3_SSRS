@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureWorksDW2014">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=MANI-ACER;Initial Catalog=AdventureWorksDW2014</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source AdventureWorksDW2014</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>3dff6a10-fa33-4003-91b7-6d21da40fb9c</DataSourceID>
+</RptDataSource>
